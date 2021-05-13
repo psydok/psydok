@@ -1,7 +1,8 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psydok&show_icons=true&theme=gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psydok&show_icons=true&theme=tokyonight)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=psydok)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psydok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![View Counter](https://komarev.com/ghpvc/?username=psydok)](#)
 <!--
 **psydok/psydok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
