@@ -1,6 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psydok&show_icons=true&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psydok&show_icons=true&bg_color=60,e96443,904e95&title_color=fff&text_color=fff&&icon_color=fff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psydok&layout=compact&hide=javascript,html,css&exclude_repo=ml_classification_of_stat_tatarstan,hh_vacancy,python-backend,GoogleStore__rating_prediction)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psydok&layout=compact&hide=javascript,html,css&exclude_repo=ml_classification_of_stat_tatarstan,hh_vacancy,python-backend,GoogleStore__rating_prediction&theme=maroongold )](https://github.com/anuraghazra/github-readme-stats)
 
 [![View Counter](https://komarev.com/ghpvc/?username=psydok)](#)
 <!--
